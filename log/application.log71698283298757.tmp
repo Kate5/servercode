@@ -1,0 +1,237 @@
+2015-08-31 09:24:41,620 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:24:41,792 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:24:41,793 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:25:24,152 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:25:24,487 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:25:24,488 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:25:28,269 [ERROR] Unfortunately, Debugging Utility disconnected unsuccessfully
+2015-08-31 09:28:42,219 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:28:42,286 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:28:42,287 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:28:43,562 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 09:28:45,682 [INFO] Runner successfully registered
+2015-08-31 09:28:45,713 [INFO] Parsing event model...
+2015-08-31 09:28:45,867 [INFO] Build successfully: EventModel{timers=0, eventHandlers=0}
+2015-08-31 09:28:45,868 [WARN] There are no any code, which can be deployed to Backendless...
+2015-08-31 09:28:49,958 [INFO] Debugging Utility disconnected successfully
+2015-08-31 09:28:49,959 [INFO] Thank you for using Backendless
+2015-08-31 09:29:35,668 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:29:35,923 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:29:35,923 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:30:53,376 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:30:53,393 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:30:53,394 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:30:53,742 [ERROR] Can not run start monitoring service
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method) ~[na:1.8.0_40]
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:375) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:329) ~[na:1.8.0_40]
+	at com.backendless.monitoring.Monitoring.startMonitoring(Monitoring.java:42) ~[CodeRunner.jar:na]
+	at com.backendless.coderunner.CodeRunnerLoader.main(CodeRunnerLoader.java:49) ~[CodeRunner.jar:na]
+2015-08-31 09:32:31,156 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:32:31,165 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:32:31,166 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:32:51,031 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:32:51,036 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:32:51,037 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:32:51,359 [ERROR] Can not run start monitoring service
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method) ~[na:1.8.0_40]
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:375) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:329) ~[na:1.8.0_40]
+	at com.backendless.monitoring.Monitoring.startMonitoring(Monitoring.java:42) ~[CodeRunner.jar:na]
+	at com.backendless.coderunner.CodeRunnerLoader.main(CodeRunnerLoader.java:49) ~[CodeRunner.jar:na]
+2015-08-31 09:34:00,147 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:34:00,155 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:34:00,156 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:34:00,486 [ERROR] Can not run start monitoring service
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method) ~[na:1.8.0_40]
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:375) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:329) ~[na:1.8.0_40]
+	at com.backendless.monitoring.Monitoring.startMonitoring(Monitoring.java:42) ~[CodeRunner.jar:na]
+	at com.backendless.coderunner.CodeRunnerLoader.main(CodeRunnerLoader.java:49) ~[CodeRunner.jar:na]
+2015-08-31 09:34:56,987 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:34:57,004 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:34:57,004 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:37:51,917 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:37:52,016 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:37:52,016 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:38:18,998 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:38:19,217 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:38:19,218 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:38:22,106 [ERROR] Can not run start monitoring service
+java.net.BindException: Address already in use
+	at java.net.PlainSocketImpl.socketBind(Native Method) ~[na:1.8.0_40]
+	at java.net.AbstractPlainSocketImpl.bind(AbstractPlainSocketImpl.java:382) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:375) ~[na:1.8.0_40]
+	at java.net.ServerSocket.bind(ServerSocket.java:329) ~[na:1.8.0_40]
+	at com.backendless.monitoring.Monitoring.startMonitoring(Monitoring.java:42) ~[CodeRunner.jar:na]
+	at com.backendless.coderunner.CodeRunnerLoader.main(CodeRunnerLoader.java:49) ~[CodeRunner.jar:na]
+2015-08-31 09:39:03,963 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:39:04,075 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:39:04,076 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 09:39:09,845 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 09:39:14,011 [INFO] Runner successfully registered
+2015-08-31 09:39:14,074 [INFO] Parsing event model...
+2015-08-31 09:39:14,680 [INFO] Build successfully: EventModel{timers=0, eventHandlers=2}
+2015-08-31 09:39:14,681 [INFO] Deploying model to server, and starting debug...
+2015-08-31 09:39:16,269 [INFO] Model successfully deployed...
+2015-08-31 09:39:16,270 [INFO] Waiting for events...
+2015-08-31 09:39:16,270 [INFO] Deploying 2 event handlers and 0 timers to the server… 
+2015-08-31 09:39:22,535 [INFO] Successfully deployed all event handlers and timers. 
+2015-08-31 09:39:22,554 [INFO] If you connected to coderunner for debug - please stop debugging
+2015-08-31 09:39:22,554 [INFO] CodeRunner will shutdown now
+2015-08-31 09:39:22,671 [INFO] Debugging Utility disconnected successfully
+2015-08-31 09:39:22,672 [INFO] Thank you for using Backendless
+2015-08-31 09:58:45,548 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 09:58:45,633 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 09:58:45,634 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 10:00:11,400 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 10:00:11,406 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 10:00:11,406 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 10:21:06,008 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 10:21:06,107 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 10:21:06,107 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 10:21:07,835 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 10:21:14,093 [INFO] Runner successfully registered
+2015-08-31 10:21:14,154 [INFO] Parsing event model...
+2015-08-31 10:21:14,875 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 10:21:14,876 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 10:21:17,973 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 10:21:17,974 [INFO] Deploying model to server, and starting debug...
+2015-08-31 10:21:25,951 [INFO] Model successfully deployed...
+2015-08-31 10:21:25,996 [INFO] Waiting for events...
+2015-08-31 10:54:31,754 [INFO] Debugging Utility disconnected successfully
+2015-08-31 10:54:31,778 [INFO] Thank you for using Backendless
+2015-08-31 10:55:58,828 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 10:55:59,001 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 10:55:59,002 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 10:56:00,766 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 10:56:03,495 [INFO] Runner successfully registered
+2015-08-31 10:56:03,530 [INFO] Parsing event model...
+2015-08-31 10:56:03,906 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 10:56:03,908 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 10:56:06,950 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 10:56:06,951 [INFO] Deploying model to server, and starting debug...
+2015-08-31 10:56:07,567 [INFO] Model successfully deployed...
+2015-08-31 10:56:07,568 [INFO] Waiting for events...
+2015-08-31 11:19:55,508 [INFO] Debugging Utility disconnected successfully
+2015-08-31 11:19:55,524 [INFO] Thank you for using Backendless
+2015-08-31 11:44:20,034 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 11:44:20,157 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 11:44:20,159 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 11:44:22,085 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 11:44:25,401 [INFO] Runner successfully registered
+2015-08-31 11:44:25,427 [INFO] Parsing event model...
+2015-08-31 11:44:25,891 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 11:44:25,892 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 11:44:28,932 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 11:44:28,934 [INFO] Deploying model to server, and starting debug...
+2015-08-31 11:44:29,526 [INFO] Model successfully deployed...
+2015-08-31 11:44:29,527 [INFO] Waiting for events...
+2015-08-31 11:45:47,022 [INFO] Debugging Utility disconnected successfully
+2015-08-31 11:45:47,039 [INFO] Thank you for using Backendless
+2015-08-31 11:46:14,700 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 11:46:14,715 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 11:46:14,715 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 11:46:15,572 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 11:46:17,498 [INFO] Runner successfully registered
+2015-08-31 11:46:17,547 [INFO] Parsing event model...
+2015-08-31 11:46:17,821 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 11:46:17,823 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 11:46:21,036 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 11:46:21,036 [INFO] Deploying model to server, and starting debug...
+2015-08-31 11:46:21,916 [INFO] Model successfully deployed...
+2015-08-31 11:46:21,925 [INFO] Waiting for events...
+2015-08-31 12:04:39,897 [INFO] Debugging Utility disconnected successfully
+2015-08-31 12:04:39,909 [INFO] Thank you for using Backendless
+2015-08-31 12:11:47,831 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 12:11:47,970 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 12:11:47,970 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 12:11:51,762 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 12:11:54,820 [INFO] Runner successfully registered
+2015-08-31 12:11:54,846 [INFO] Parsing event model...
+2015-08-31 12:11:55,233 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 12:11:55,235 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 12:11:58,277 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 12:11:58,277 [INFO] Deploying model to server, and starting debug...
+2015-08-31 12:11:58,734 [INFO] Model successfully deployed...
+2015-08-31 12:11:58,735 [INFO] Waiting for events...
+2015-08-31 12:21:57,902 [INFO] Debugging Utility disconnected successfully
+2015-08-31 12:21:57,924 [INFO] Thank you for using Backendless
+2015-08-31 12:53:07,192 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 12:53:07,477 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 12:53:07,477 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 12:53:09,927 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 12:53:13,359 [INFO] Runner successfully registered
+2015-08-31 12:53:13,398 [INFO] Parsing event model...
+2015-08-31 12:53:14,240 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 12:53:14,268 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 12:53:17,481 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 12:53:17,482 [INFO] Deploying model to server, and starting debug...
+2015-08-31 12:53:17,906 [INFO] Model successfully deployed...
+2015-08-31 12:53:17,907 [INFO] Waiting for events...
+2015-08-31 12:57:11,706 [INFO] Debugging Utility disconnected successfully
+2015-08-31 12:57:11,723 [INFO] Thank you for using Backendless
+2015-08-31 13:03:29,006 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 13:03:29,110 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 13:03:29,110 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 13:03:30,534 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 13:03:32,793 [INFO] Runner successfully registered
+2015-08-31 13:03:32,830 [INFO] Parsing event model...
+2015-08-31 13:03:33,094 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 13:03:33,096 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 13:03:36,140 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 13:03:36,141 [INFO] Deploying model to server, and starting debug...
+2015-08-31 13:03:36,886 [INFO] Model successfully deployed...
+2015-08-31 13:03:36,887 [INFO] Waiting for events...
+2015-08-31 13:15:37,402 [WARN] Command '' not exist!
+2015-08-31 13:15:37,405 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:15:37,569 [WARN] Command '' not exist!
+2015-08-31 13:15:37,572 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:15:37,730 [WARN] Command '' not exist!
+2015-08-31 13:15:37,734 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:56:55,139 [WARN] Command 'z' not exist!
+2015-08-31 13:56:55,187 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:56:55,306 [WARN] Command '' not exist!
+2015-08-31 13:56:55,306 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:56:55,458 [WARN] Command '' not exist!
+2015-08-31 13:56:55,459 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:58:40,063 [WARN] Command '' not exist!
+2015-08-31 13:58:40,064 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:58:40,239 [WARN] Command '' not exist!
+2015-08-31 13:58:40,239 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 13:58:40,359 [WARN] Command '' not exist!
+2015-08-31 13:58:40,359 [INFO] Please use one of the following commands: build, status, deploy, publish, help, exit.
+2015-08-31 14:06:52,902 [INFO] Debugging Utility disconnected successfully
+2015-08-31 14:06:52,903 [INFO] Thank you for using Backendless
+2015-08-31 14:15:13,893 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 14:15:13,903 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 14:15:13,904 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 14:15:14,500 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 14:15:15,729 [INFO] Runner successfully registered
+2015-08-31 14:15:15,733 [INFO] Parsing event model...
+2015-08-31 14:15:15,952 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 14:15:15,954 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 14:15:18,992 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 14:15:18,993 [INFO] Deploying model to server, and starting debug...
+2015-08-31 14:15:19,211 [INFO] Model successfully deployed...
+2015-08-31 14:15:19,212 [INFO] Waiting for events...
+2015-08-31 14:17:45,830 [INFO] Debugging Utility disconnected successfully
+2015-08-31 14:17:45,830 [INFO] Thank you for using Backendless
+2015-08-31 14:18:07,592 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-08-31 14:18:07,598 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-08-31 14:18:07,599 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-08-31 14:18:08,168 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-08-31 14:18:09,336 [INFO] Runner successfully registered
+2015-08-31 14:18:09,340 [INFO] Parsing event model...
+2015-08-31 14:18:09,446 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 14:18:09,447 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-08-31 14:18:12,482 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-08-31 14:18:12,488 [INFO] Deploying model to server, and starting debug...
+2015-08-31 14:18:12,879 [INFO] Model successfully deployed...
+2015-08-31 14:18:12,879 [INFO] Waiting for events...

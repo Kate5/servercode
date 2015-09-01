@@ -1,0 +1,53 @@
+2015-09-01 07:13:05,938 [INFO] Debugging Utility disconnected successfully
+2015-09-01 07:13:06,019 [INFO] Thank you for using Backendless
+2015-09-01 07:50:22,837 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-09-01 07:50:22,856 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-09-01 07:50:22,857 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-09-01 07:50:24,833 [WARN] RMI ignored by timeout RequestMethodInvocation{appId=A92906D6-6B36-FAD1-FFE0-718BFD7CAE00, versionId=3E735219-7C88-5E91-FF96-233B98DE6E00, eventId=112, target=*, timeout=5000, async=false}.
+2015-09-01 07:50:24,879 [WARN] RMI ignored by timeout RequestMethodInvocation{appId=A92906D6-6B36-FAD1-FFE0-718BFD7CAE00, versionId=3E735219-7C88-5E91-FF96-233B98DE6E00, eventId=112, target=*, timeout=5000, async=false}.
+2015-09-01 07:50:24,898 [WARN] RMI ignored by timeout RequestMethodInvocation{appId=A92906D6-6B36-FAD1-FFE0-718BFD7CAE00, versionId=3E735219-7C88-5E91-FF96-233B98DE6E00, eventId=112, target=*, timeout=5000, async=false}.
+2015-09-01 07:50:24,924 [WARN] RMI ignored by timeout RequestMethodInvocation{appId=A92906D6-6B36-FAD1-FFE0-718BFD7CAE00, versionId=3E735219-7C88-5E91-FF96-233B98DE6E00, eventId=112, target=*, timeout=5000, async=false}.
+2015-09-01 07:53:01,878 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-09-01 07:53:01,887 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-09-01 07:53:01,888 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-09-01 07:53:02,440 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-09-01 07:53:05,276 [INFO] Runner successfully registered
+2015-09-01 07:53:05,281 [INFO] Parsing event model...
+2015-09-01 07:53:05,539 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-09-01 07:53:05,540 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-09-01 07:53:08,561 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-09-01 07:53:08,562 [INFO] Deploying model to server, and starting debug...
+2015-09-01 07:53:12,296 [INFO] Model successfully deployed...
+2015-09-01 07:53:12,296 [INFO] Waiting for events...
+2015-09-01 07:53:30,026 [INFO] Deploying 78 event handlers and 2 timers to the server… 
+2015-09-01 07:53:34,051 [INFO] Successfully deployed all event handlers and timers. 
+2015-09-01 07:53:34,052 [WARN] The deployment will result in additional charges as it exceeds the free plan limit. 
+2015-09-01 07:53:34,052 [INFO] See the Billing screen in Backendless Console for details.
+2015-09-01 07:53:34,052 [INFO] The billing screen is available at Manage > Billing.
+2015-09-01 07:53:34,052 [INFO] If you connected to coderunner for debug - please stop debugging
+2015-09-01 07:53:34,052 [INFO] CodeRunner will shutdown now
+2015-09-01 07:53:34,098 [INFO] Debugging Utility disconnected successfully
+2015-09-01 07:53:34,098 [INFO] Thank you for using Backendless
+2015-09-01 08:22:12,073 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-09-01 08:22:12,110 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-09-01 08:22:12,111 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-09-01 08:22:12,893 [INFO] Registering runner on: http://localhost:9000 with secretKey: BDEC8F84-A5A9-A253-FF62-A66620DC4100
+2015-09-01 08:22:14,392 [INFO] Runner successfully registered
+2015-09-01 08:22:14,403 [INFO] Parsing event model...
+2015-09-01 08:22:14,715 [WARN] Timer's 'timer' start time is in the past. The timer will run accordingly to the schedule.
+2015-09-01 08:22:14,717 [WARN] Timer's 'timer1' start time is in the past. The timer will run accordingly to the schedule.
+2015-09-01 08:22:17,767 [INFO] Build successfully: EventModel{timers=2, eventHandlers=78}
+2015-09-01 08:22:17,768 [INFO] Deploying model to server, and starting debug...
+2015-09-01 08:22:19,142 [INFO] Model successfully deployed...
+2015-09-01 08:22:19,143 [INFO] Waiting for events...
+2015-09-01 08:30:00,347 [INFO] Debugging Utility disconnected successfully
+2015-09-01 08:30:00,347 [INFO] Thank you for using Backendless
+2015-09-01 08:45:51,756 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-09-01 08:45:51,762 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-09-01 08:45:51,763 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-09-01 12:44:10,567 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-09-01 12:44:10,587 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-09-01 12:44:10,588 [INFO] Version: 2.1 Build date: 20150728-1412
+2015-09-01 12:54:50,274 [INFO] CodeRunner(tm) Backendless Debugging Utility
+2015-09-01 12:54:50,281 [INFO] Copyright(C) 2015 Backendless Corp. All rights reserved. 
+2015-09-01 12:54:50,282 [INFO] Version: 2.1 Build date: 20150728-1412
