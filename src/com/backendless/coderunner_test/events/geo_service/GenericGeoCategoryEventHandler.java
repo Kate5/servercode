@@ -96,6 +96,20 @@ public class GenericGeoCategoryEventHandler extends com.backendless.servercode.e
   {
     System.out.println("afterAddPoint");
   }
-    
+
+  @Override
+  public void beforeGetPoints( RunnerContext context, BackendlessGeoQuery query ) throws Exception
+  {
+    // add your code here
+  }
+
+  @Override
+  public void afterGetPoints( RunnerContext context, BackendlessGeoQuery query, ExecutionResult<BackendlessCollection<GeoPoint>> result ) throws Exception
+  {
+    // add your code here
+  }
+
+
+
 }
         

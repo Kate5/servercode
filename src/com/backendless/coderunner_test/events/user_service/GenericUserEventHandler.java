@@ -31,7 +31,7 @@ public class GenericUserEventHandler extends com.backendless.servercode.extensio
   }
     
   @Override
-  public void afterFindById( RunnerContext context, String objectId, String[] relations, ExecutionResult<HashMap> result ) throws Exception
+  public void afterFindById( RunnerContext context, Object objectId, String[] relations, ExecutionResult<HashMap> result ) throws Exception
   {
     System.out.println( "users afterFindById" );
   }
@@ -41,9 +41,9 @@ public class GenericUserEventHandler extends com.backendless.servercode.extensio
   {
     System.out.println( "users afterFind" );
   }
-    
+
   @Override
-  public void beforeFindById( RunnerContext context, String objectId, String[] relations ) throws Exception
+  public void beforeFindById( RunnerContext context, Object objectId, String[] relations ) throws Exception
   {
     System.out.println( "users beforeFindById" );
   }

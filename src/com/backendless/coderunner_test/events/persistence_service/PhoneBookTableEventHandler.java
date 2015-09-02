@@ -64,14 +64,14 @@ public class PhoneBookTableEventHandler extends com.backendless.servercode.exten
   }
 
   @Override
-  public void afterFindById( RunnerContext context, String objectId, String[] relations,
+  public void afterFindById( RunnerContext context, Object objectId, String[] relations,
                              ExecutionResult<PhoneBook> result ) throws Exception
   {
     System.out.println( "PhoneBook afterFindById" );
   }
 
   @Override
-  public void beforeFindById( RunnerContext context, String objectId, String[] relations ) throws Exception
+  public void beforeFindById( RunnerContext context, Object objectId, String[] relations ) throws Exception
   {
     System.out.println( "PhoneBook beforeFindById" );
   }
@@ -84,7 +84,7 @@ public class PhoneBookTableEventHandler extends com.backendless.servercode.exten
   }
 
   @Override
-  public void afterRemove( RunnerContext context, String objectId, ExecutionResult<Long> result ) throws Exception
+  public void afterRemove( RunnerContext context, Object objectId, ExecutionResult<Long> result ) throws Exception
   {
     System.out.println( "PhoneBook afterRemove" );
   }
@@ -137,7 +137,7 @@ public class PhoneBookTableEventHandler extends com.backendless.servercode.exten
   }
 
   @Override
-  public void beforeRemove( RunnerContext context, String objectId ) throws Exception
+  public void beforeRemove( RunnerContext context, Object objectId ) throws Exception
   {
     System.out.println( "PhoneBook beforeRemove" );
   }

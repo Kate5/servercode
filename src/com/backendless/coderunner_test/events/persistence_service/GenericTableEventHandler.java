@@ -46,7 +46,7 @@ public class GenericTableEventHandler extends com.backendless.servercode.extensi
   }
     
   @Override
-  public void beforeFindById( RunnerContext context, String objectId, String[] relations ) throws Exception
+  public void beforeFindById( RunnerContext context, Object objectId, String[] relations ) throws Exception
   {
     System.out.println( "beforeFindById" );
   }
@@ -64,7 +64,7 @@ public class GenericTableEventHandler extends com.backendless.servercode.extensi
   }
     
   @Override
-  public void afterRemove( RunnerContext context, String objectId, ExecutionResult<Long> result ) throws Exception
+  public void afterRemove( RunnerContext context, Object objectId, ExecutionResult<Long> result ) throws Exception
   {
     System.out.println( "afterRemove" );
   }
@@ -124,7 +124,7 @@ public class GenericTableEventHandler extends com.backendless.servercode.extensi
   }
     
   @Override
-  public void afterFindById( RunnerContext context, String objectId, String[] relations, ExecutionResult<HashMap> result ) throws Exception
+  public void afterFindById( RunnerContext context, Object objectId, String[] relations, ExecutionResult<HashMap> result ) throws Exception
   {
     System.out.println( "afterFindById" );
   }
@@ -142,7 +142,7 @@ public class GenericTableEventHandler extends com.backendless.servercode.extensi
   }
     
   @Override
-  public void beforeRemove( RunnerContext context, String objectId ) throws Exception
+  public void beforeRemove( RunnerContext context, Object objectId ) throws Exception
   {
     System.out.println( "beforeRemove" );
   }

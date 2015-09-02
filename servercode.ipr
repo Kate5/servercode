@@ -167,10 +167,5 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="libs">
-      <CLASSES />
-      <JAVADOC />
-      <SOURCES />
-    </library>
   </component>
 </project>
