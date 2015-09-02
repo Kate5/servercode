@@ -157,16 +157,20 @@
     <output url="file://$PROJECT_DIR$/classes" />
   </component>
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
   <component name="libraryTable">
-    <library name="libs">
+    <library name="backendless">
       <CLASSES>
-        <root url="file://$PROJECT_DIR$/libs" />
+        <root url="jar://$PROJECT_DIR$/libs/backendless.jar!/" />
       </CLASSES>
       <JAVADOC />
       <SOURCES />
-      <jarDirectory url="file://$PROJECT_DIR$/libs" recursive="false" />
+    </library>
+    <library name="libs">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
     </library>
   </component>
 </project>
